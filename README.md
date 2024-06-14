@@ -6,6 +6,7 @@ I'm a security engineer with a passion for application security, vulnerability m
 - 👯 I’m looking to collaborate on **open source security tools**
 - 💬 Ask me about **detection engineering and vulnerability management**
 - 📫 How to reach me:
+  - `console.log(atob("a2V2aW5Aa2V2aW5jb29wZXIuaW8="))`
   - [🔑 Public Key](public_key.asc)
 
 ---
